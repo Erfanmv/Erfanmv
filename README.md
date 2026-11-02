@@ -39,7 +39,7 @@ Most of this work lives in private company repositories; happy to walk through t
 
 ## Background
 
-E-commerce operations team lead (led a vendor team to the #1 national ranking on fulfillment KPIs) and network engineer before moving into data. BSc Biomedical Engineering.
+Before data: led the e-commerce operations team of a major hypermarket vendor (hired and trained the team, owned fulfillment SLAs, took it to the #1 national ranking on fulfillment KPIs), and worked as a network engineer and engineering project manager delivering enterprise LAN/WAN, data-centre and public-sector infrastructure projects end to end. BSc Biomedical Engineering.
 
 ## Contact
 
