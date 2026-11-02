@@ -10,8 +10,8 @@ Most recently I built an **LLM analytics agent**: a knowledge layer encoding the
 
 | Area | Stack |
 |---|---|
-| AI & LLM engineering | LLM agent design · agent knowledge bases / skills · tool integration via Model Context Protocol (MCP) · LLM text-to-SQL · prompt engineering · Claude Code |
-| Business & finance | E-commerce / q-commerce economics · P&L and contribution margin · EBITDA · GMV/NMV/AOV · commission and discount modelling · unit economics · OTIF, cancellation and return rates · target setting and run-rate forecasting |
+| AI & LLM engineering | LLM agent design · agent knowledge bases / skills · tool integration via Model Context Protocol (MCP) · LLM text-to-SQL · prompt engineering · Claude Code & Agent SDK |
+| Business & finance | E-commerce / q-commerce economics · P&L and contribution margin · GMV/NMV/AOV · commission and discount modelling · unit economics · OTIF, cancellation and return rates · target setting and run-rate forecasting |
 | Data engineering | Apache Airflow · Apache Spark · ETL/ELT · dimensional modeling (star schema) · data quality checks |
 | DevOps & platform | Docker · CI/CD · Git · Bash · Linux/Windows Server · MinIO/S3 · AWS · GCP · RBAC & row-level security |
 | Databases | MS SQL Server · SSAS (Tabular/DAX) · ClickHouse · PostgreSQL · MySQL |
