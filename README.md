@@ -4,7 +4,7 @@
 
 I build the data products behind commercial decision-making: ML-based dynamic pricing, competitor crawling, vendor monitoring, platform-wide KPI frameworks and dimensional data warehouses, plus the Airflow / Docker / CI-CD platform that runs them.
 
-Most recently I've been building **LLM agents for analytics** — encoding our data warehouse, business rules and SSAS cube measures into a Claude skill, and wiring Claude to Metabase, SQL Server and the terminal through MCP, so analysts (and the AI itself) can go from a business question to a verified query and report in minutes.
+Most recently I've been building **LLM agents for analytics** — encoding our data warehouse, business rules and semantic-model KPIs into a Claude skill, and wiring Claude to Metabase, SQL Server and the terminal through MCP, so analysts (and the AI itself) can go from a business question to a verified query and report in minutes.
 
 ## What I work with
 
@@ -16,10 +16,11 @@ Most recently I've been building **LLM agents for analytics** — encoding our d
 | Databases | MS SQL Server · SSAS (Tabular/DAX) · ClickHouse · PostgreSQL · MySQL |
 | Data science | Python · SQL · forecasting · clustering · regression/classification · A/B testing |
 | BI | Metabase · Power BI · Streamlit · SSRS |
+| Networking | Cisco routing & switching (CCNA/CCNP) · VLAN/OSPF/EIGRP · VPN · Active Directory |
 
 ## Selected projects (Digikala)
 
-**AI Analyst Agent & Warehouse Knowledge Skill (2026)** — a Claude skill acting as a semantic layer for LLMs over the Jet (Q-Commerce) data warehouse and SSAS cube: tables, verified join keys, business rules and per-measure formulas, combined with MCP integrations (Metabase, SQL Server, terminal) so agents answer business questions with verified SQL and Python end to end.
+**AI Analyst Agent & Warehouse Knowledge Skill (2026)** — a Claude skill acting as a semantic layer for LLMs over the company data warehouse and SSAS semantic model: schema, verified join paths, business rules and KPI definitions, combined with MCP integrations (Metabase, SQL Server, terminal) so agents answer business questions with verified SQL and Python end to end.
 
 **FMCG Marketplace Data Warehouse (2026)** — dimensional (star-schema) warehouse extracted from the main operational database, orchestrated with Airflow and served to Metabase / Power BI.
 
@@ -37,7 +38,7 @@ Most of this work lives in private company repositories; happy to walk through t
 
 ## Background
 
-E-commerce operations team lead (led a vendor team to the #1 national ranking on fulfillment KPIs) and network project manager before moving into data. BSc Biomedical Engineering.
+E-commerce operations team lead (led a vendor team to the #1 national ranking on fulfillment KPIs) and network engineer before moving into data. BSc Biomedical Engineering.
 
 ## Contact
 
